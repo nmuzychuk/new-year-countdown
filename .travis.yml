@@ -1,0 +1,5 @@
+language: c
+script:
+- source test.sh
+services:
+- docker
